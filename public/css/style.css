@@ -8,6 +8,10 @@
   src: url(https://cloudyblogz.neocities.org/ibm-3270.ttf);
   }
   
+  head {
+  favicon: "/images/favicon.ico"
+  }
+
   body {
   background-color: #060d0b;
   font-family: "nerdfont";
