@@ -40,6 +40,8 @@
   #topmenu {
    background-color: #0c1814;
    border-style: solid;
-   border-width: 10px
+   border-width: 3px;
+   padding: 20px;
+   border-color: #0e6b0e;
   }
   
