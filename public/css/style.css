@@ -9,9 +9,7 @@
   }
 
 
-  #top {
-   background-color: #0c1814;
-  }
+  
   body {
   background-color: #060d0b;
   font-family: "nerdfont";
@@ -38,3 +36,8 @@
   ol {
   color: #3a7562; 
   }
+
+  #topmenu {
+   background-color: #0c1814;
+  }
+  
