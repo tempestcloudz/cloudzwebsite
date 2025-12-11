@@ -8,6 +8,10 @@
   src: url(https://cloudyblogz.neocities.org/fonts/ibm-3270.ttf);
   }
 
+
+  #top {
+   background-color: #0c1814;
+  }
   body {
   background-color: #060d0b;
   font-family: "nerdfont";
