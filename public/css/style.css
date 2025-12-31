@@ -5,13 +5,14 @@
 
 @font-face {
   font-family: "nerdfont";
-  src: url(https://cloudyblogz.neocities.org/fonts/ibm-3270.ttf);
+  src: url(/fonts/ibm-3270.ttf);
   }
 
 
   
   body {
-  background-image: url(/images/netverse.png);
+  background-image: url(/images/netverse2.png);
+  font-family: "nerdfont";
   /* background-color: #060d0b; 
   font-family: "nerdfont";
   color: #3a7562;
