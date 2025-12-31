@@ -12,7 +12,7 @@
   
   body {
   background-image: url(/images/netverse.png);
-  /* background-color: #060d0b; */
+  /* background-color: #060d0b; 
   font-family: "nerdfont";
   color: #3a7562;
   margin: 40px;
@@ -20,7 +20,8 @@
   border-style: dashed;
   border-left-width: 5px;
   border-right-width: 5px;
-  border-color: #2b5329;
+  border-color: #2b5329; 
+  fixed sum stuff, now the background should STAY in the background*/
   }
   a {
   color: #9ccc9c; 
@@ -45,6 +46,17 @@
    padding: 20px;
    border-color: #0e6b0e;
   }
+  #mainmenu {
+   background-color: #060d0b;
+   color: #3a7562;
+   margin: 40px;
+   padding: 20px;
+   border-style: dashed;
+   border-left-width: 5px;
+   border-right-width: 5px;
+   border-color: #2b5329;
+
+  }
   #botmenu {
    background-color: #0c1814;
    border-style: solid;
@@ -54,6 +66,5 @@
   }
   #abtmain {
    text-align: center;
-
   }
   
